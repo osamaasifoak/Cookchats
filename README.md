@@ -1,6 +1,14 @@
 # cookchats
 
-A new Flutter project.
+Sample screen in flutter
+
+# Sample screen
+
+![Splash Screen](splash.png)
+
+![Login](login.png)
+
+![Signup](image.png)
 
 ## Getting Started
 
